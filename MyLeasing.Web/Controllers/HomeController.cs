@@ -43,3 +43,4 @@ namespace MyLeasing.Web.Controllers
 }
 
 //Todo: https://www.youtube.com/watch?v=pq6LfMqKWGg&list=PLuEZQoW9bRnRkiC9j5XkMVphyWkz0cdRk
+//Todo: https://www.youtube.com/watch?v=9afq-C5yq0Y&list=PLuEZQoW9bRnRkiC9j5XkMVphyWkz0cdRk&index=7
